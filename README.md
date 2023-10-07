@@ -9,7 +9,7 @@ Welcome to Hacktoberfest 2023 brought to you by Chimoney! This is your complete 
   - [Introduction](#introduction)
   - [Prerequisites](#prerequisites)
   - [Getting Started](#getting-started)
-  - [Resources](#resources)
+  - [Documentation](#documentation)
   - [Obtaining API Keys](#obtaining-api-keys)
   - [Contributing](#contributing)
   - [Issues](#issues)
@@ -45,7 +45,7 @@ Ready to dive in? Here's how to get started:
 5. Follow our [Contributing Guidelines](#contributing) for making changes.
 6. Create a pull request when you're ready to submit your contribution.
 
-## Resources
+## Documentation
 
 Here are some helpful resources to get you started:
 
